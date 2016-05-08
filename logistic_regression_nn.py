@@ -157,4 +157,5 @@ if __name__ == "__main__":
     plt.title('red vs. blue classification boundary')
     plt.show()
     
+    #refer http://peterroelants.github.io/posts/neural_network_implementation_part02/
    
